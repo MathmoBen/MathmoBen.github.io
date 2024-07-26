@@ -1,4 +1,3 @@
 # MathmoBen.github.io
-Personal website
+This is the place where I'll host my personal website for my portfolio.
 
-Does this add to the main page itself?
